@@ -1,0 +1,21 @@
+server:
+  port: 8080
+  address: 127.0.0.1
+  sessionTimeout: 30
+  contextPath: /api
+management:  
+  port: 9090  
+  health:  
+    mail:  
+      enabled: false
+user:
+  name: sawyer
+  sex: 1
+  profile:
+    mobile: 123456
+  address:
+    provice: guangdong
+    city: shenzhen
+    
+
+   
